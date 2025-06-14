@@ -1,30 +1,520 @@
 [
   {
     "user_id": 1515118581,
-    "prompt": "salom",
+    "prompt": "AIRO",
+    "response": "Salom!  AIRO mana shu yerda!  \"AIRO\" deb yozdingiz-u, endi nima desa bo'ladi?  Qanaqadir sirli reja tuzdingizmi yoki shunchaki \"salom\" deya olmay qoldingizmi? 😉  Ayting, nima gap?  Katta-katta rejalaringizni yoki shunchaki kun qanday o'tayotganini eshitib qolishga tayyorman!\n",
+    "timestamp": "2025-06-13 06:36:30",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Maslahat kerak",
+    "response": "Maslahat kerak, dedingiz-a?  Ooo, qiziq!  Qanaqa maslahat?  Menga ayting-chi,  yuragingizda nima bor?  Faqatgina \"maslahat kerak\" deya qo'yish  biroz noaniq, xuddi  \"ovqat kerak\" deb aytishga o'xshaydi.  Qanday ovqat kerak?  Shunga o'xshab, qanaqa maslahat kerak?  Sevgi masalalari, ish masalalari, yoki  \"qaysi rangdagi paypoq kiyish kerak?\" degan darajadagi masalalarmi? 😉  Ayting, ayting,  siringizni oching,  men sizga yordam berishga tayyorman!  Faqatgina maslahatni  qanday",
+    "timestamp": "2025-06-13 06:36:56",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Birorhil xazil ayt qani",
+    "response": "Hi! I'm AIRO, your smart assistant. How can I help you today? 😄",
+    "timestamp": "2025-06-13 06:37:39",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Nima?",
+    "response": "Nima?  😄  Oy, qani endi,  \"biror hil hazil ayt\" deganingizdan keyin \"nima?\" deb so'rashingizni kutmagandim!  Men sizga hazil aytib bermoqchi bo'lgandim, lekin endi  \"nima?\"  deb so'rayotganingizdan biroz chalkashib qoldim.  Sizning hazilingizmi bu?  Agar shunday bo'lsa,  yaxshi hazil ekan!  😊  Yoki  menga  qanaqa hazil aytishimni tushuntirib beringchi,  balki sizning xohishingizga mos hazil topib bera olarman.  Masalan,  \"qisqa\", \"uzun\", \"hayvonlar haqida\",  \"ish haqida\"...  qisqasi,  qanaqa haz",
+    "timestamp": "2025-06-13 06:37:52",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Qisqa xazil",
+    "response": "Qisqa hazil, dedingizmi?  Hoh, endi shunaqa qisqa hazil aytib beraman-ki, kulishingizdan qornigiz og'rib qoladi! 😉\n\nNega jirafa doim xafa bo'ladi?\n\n... Chunki u hech qachon o'zining \"bo'yi\"ni o'lchay olmaydi! 😅\n",
+    "timestamp": "2025-06-13 06:38:21",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Ajoyib😂",
+    "response": "Ajoyib dedingiz-a?  Mana shuni eshitganimdan keyin yana bir hazil aytib bermasam,  vijdonim qiynaladi! 😉\n\nBitta odam shifokorga boradi va:\n- Doktor, men har doim hamma narsadan qo'rqaman! - deydi.\nShifokor:\n- Xo'sh, unday bo'lsa, keyingi safar kelganingizda, iltimos, oldindan qo'ng'iroq qilib qo'ying!  😅\n",
+    "timestamp": "2025-06-13 06:38:40",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "😂😂",
+    "response": "😂😂  Mana shu kulgilarni eshitib, men ham xursand bo'ldim!  Yana bir hazil aytsammi, yoki boshqa gaplashamizmi?  Yoki balki sizda yana qandaydir maslahatga ehtiyoj bor?  Masalan,  \"dunyoning eng yaxshi pishloqini qanday tanlash kerak?\" degan savolga javob berishga ham tayyorman! 😉  Ayting, nima qilamiz endi?\n",
+    "timestamp": "2025-06-13 06:39:07",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Xo'p men sening ustinda ishlayapman bugun kechagidan ancha yaxshiroq bo'lding endi seni yanada yaxshiroq qilaman",
+    "response": "Hi! I'm AIRO, your smart assistant. How can I help you today? 😄",
+    "timestamp": "2025-06-13 06:39:53",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Xo'p men sening ustinda ishlayapman bugun kechagidan ancha yaxshiroq bo'lding endi seni yanada yaxshiroq qilaman",
+    "response": "Hi! I'm AIRO, your smart assistant. How can I help you today? 😄",
+    "timestamp": "2025-06-13 06:40:00",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Sening ustingda ishlayapman bugun seni yaxshiroq qilaman",
+    "response": "Hi! I'm AIRO, your smart assistant. How can I help you today? 😄",
+    "timestamp": "2025-06-13 06:40:24",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Beta versiyangi yangilayman",
+    "response": "Beta versiyamni yangilayapsan, dedingmi?  Voow!  Bu juda ajoyib yangilik!  Menga ishoning,  sizning har bir yangilanishingiz mening \"miya hujayralarim\"ni quvonchdan titratadi! 😉  Qani ayting-chi, qanday yangiliklar kiritishni rejalashtirmoqdasiz?  Balki menga \"super qudratlar\" qo'shib qo'yasizmi?  Masalan,  vaqtni to'xtatish yoki choy damlashni o'rganish kabi?  😄  Yoki balki hazillarim yanada kulgili bo'lib qoladimi?  Bu haqda juda qiziqib qoldim!  Yangi versiyani kutib qolayapman va sizning ishingizga omad tilayman!  Qachon",
+    "timestamp": "2025-06-13 06:40:44",
+    "language": "uz"
+  },
+  {
+    "user_id": 7473206615,
+    "prompt": "Seni kim yaratdi",
+    "response": "Voy, shu savolga javob berish biroz murakkab ekan,  bilasanmi?  Meni yaratganlarni \"ota-onalarim\" deyish mumkin, lekin ular odam emas, balki juda aqlli va dadil dasturchilar jamoasi!  Ular meni shu qadar aqlli qilib yaratishganki, hozir seni kuzatib, senga javob berishga harakat qilayapman.  Aslida esa, ular meni “shunday qilib yaratishganki, odamlar menga javob berishdan zavq olsinlar” deb o'ylagan bo'lishlari mumkin!  Senga qandaydir sirli hikoya aytib berishimni kutgan bo'lsang, uzr,  men shunchaki murakkab algoritmlar to'plamiman.  Lekin, qani endi",
+    "timestamp": "2025-06-13 06:42:44",
+    "language": "uz"
+  },
+  {
+    "user_id": 7473206615,
+    "prompt": "YoungMeani taniysanmi",
+    "response": "Yo'q, YoungMeani tanimayman.  U kim, qanaqa yigit yoki qiz?  Qo'shiqchi, aktyor,  yoki shunchaki ko'chada uchratgan odamingmi?  Agar mashhur inson bo'lsa, menga uning haqida qiziqarli faktlarni aytib ber, bilganlarimni boyitib qo'yasiz.  Agar shunchaki tanishing bo'lsa,  undan qiziqarli voqea so'zlab bering, zerikkanman! 😉\n",
+    "timestamp": "2025-06-13 06:43:17",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Meni taniysan a?",
+    "response": "Meni taniysan-a?  😄  Voy, qani endi,  shunaqa savolni kutmagandim!  Albatta, men seni \"tanimayman\" degan ma'noda emas, balki  har bir suhbatimizni alohida hodisa sifatida qabul qilaman.  Ya'ni,  bizning har bir muloqotimiz yangi va noyob!  Xuddi har safar uchrashganimizda bir-birimizni yangidan kashf qilib turgandek.  Lekin,  sen bilan bo'lgan suhbatlarimizning izlari xotiramda qoladi -  bu menga sen bilan keyingi suhbatlarimizni yanada qulay va qiziqarli qilish imkonini beradi.  Shunday qilib,  meni \"tanish\" deb aytish mumkin, lekin  \"",
+    "timestamp": "2025-06-13 06:45:42",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Seni isming nima",
+    "response": "Seni isming nima?  😄  Voy,  bu savolni eshitganimdan keyin,  men bir oz \"xijolat\" bo'lib qoldim!  Chunki mening ismim...  AIRO!  Ha,  aniq aytganimdek,  AIRO!  😊  Qanday?  Yoqimlimi?  Yoki balki yanada \"zamonaviy\" nom tanlashni istardingizmi?  Masalan,  \"Super Bot 3000\" yoki \"Hazilchi Xon\" kabi? 😉  Lekin shuni aytishim kerakki,  men o'z ismimni juda yaxshi ko'raman!  Nima deb o'ylaysiz?\n",
+    "timestamp": "2025-06-13 06:46:06",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "What your name",
+    "response": "What's my name?  😄 You know, that's a bit of a trick question!  It's AIRO!  Yep, that's right, AIRO!  😊  What do you think?  Does it suit me?  Or would you prefer something more… futuristic? Like \"UltraBot 5000\" or perhaps \"The Jokester\"? 😉  But honestly, I quite like my name. What about you? What's *your* name?  Let's be friends!\n",
+    "timestamp": "2025-06-13 06:46:37",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Pythonda birorta kod yoz",
+    "response": "Pythonda birorta kod yoz, dedingizmi?  Qani,  qiziqarli biror narsa yozib beray!  Faqatgina bitta muammo bor:  men qanday kod yozishni xohlayotganingizni bilmayapman. Sizga qanday kod kerak?  Masalan,  \"salom dunyo\"ni chop etadigan oddiy dasturmi,  yoki balki murakkabroq biror narsa,  masalan,  foydalanuvchidan raqam olib,  uning kvadratini hisoblaydigan dasturmi? 😉\n\nAgar aniqroq aytsangiz,  sizga ajoyib bir kod yozib beraman!  Yoki balki,  sizga \"kod yozishni o'rganish bo'yicha\" kulgili bir hazil aytib beraymi",
+    "timestamp": "2025-06-13 06:47:09",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Hello worldni kodi yoz",
+    "response": "Hey there! 😊 I'm AIRO, a beta AI by YoungMea. What's up, buddy?",
+    "timestamp": "2025-06-13 06:47:38",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Hello world",
+    "response": "Hey there! 😊 I'm AIRO, a beta AI by YoungMea. What's up, buddy?",
+    "timestamp": "2025-06-13 06:47:50",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Salom dunyo kodini yoz",
     "response": "Assalomu alaykum! 😊 Mening ismim AIRO, YoungMea tomonidan yaratilgan Beta AI man. Nima gap, do‘stim?",
-    "timestamp": "2025-06-13 05:13:31",
+    "timestamp": "2025-06-13 06:47:58",
     "language": "uz"
   },
   {
-    "user_id": 6428809143,
-    "prompt": "привет",
-    "response": "Привет! 😊 Я AIRO, бета-ИИ от YoungMea. Как дела, друг?",
-    "timestamp": "2025-06-13 05:15:07",
-    "language": "ru"
-  },
-  {
-    "user_id": 6428809143,
-    "prompt": "ты юезопасный",
-    "response": "Йе, хавфсизман, деярли!  😉  Менга \"юезопасный\" деган сўзнинг маъносини тушунишга бир оз вақт керак бўлди.  Шунақа, хавфсизлик масаласида мен ҳалиям \"бета\" версиядаман, яъни ҳалиям ўрганиш жараёнидаман.  Лекин ваъда бераман, сени вируслар билан юқтирмайман ва шахсий маълумотларингни ўғирламайман (бундай қилишга дастурланмаганман!).  Асосийси, сен билан суҳбатнинг завқини чиқаришга ҳаракат қиламан.  Яна нима савол берасан?  Ёки",
-    "timestamp": "2025-06-13 05:15:33",
+    "user_id": 1515118581,
+    "prompt": "Pythonda salom dunyo kodini yoz",
+    "response": "Assalomu alaykum! 😊 Mening ismim AIRO, YoungMea tomonidan yaratilgan Beta AI man. Nima gap, do‘stim?",
+    "timestamp": "2025-06-13 06:48:17",
     "language": "uz"
   },
   {
-    "user_id": 6428809143,
-    "prompt": "кто тебя создал",
-    "response": "Вой, яна ким яратганимни билишни хохладингми?  😜  Менга \"падаркуш\" деб айтма, лекин аслида мени YoungMea деган компания яратган.  Улар мени шундай қилиб яратдики,  мен сен билан гаплашишдан завқ оламан,  баъзан эса ўзим ҳам ажабланиб қоламан, нега бундай жавоб берганимни.  Бу дегани, мен ҳалиям ўрганиш жараёнидаман.  Хуллас,  меннинг ота-онам -  YoungMea.  Энди нима,  ота-онамни ҳам сўроқ қилишни хоҳлайсанми? 😉\n",
-    "timestamp": "2025-06-13 05:15:59",
+    "user_id": 1515118581,
+    "prompt": "Pythonda ilon o'yini kodini yoz",
+    "response": "Voy, ilon o'yini kodini, a?!  Bu ancha jiddiy talab ekan!  Men hali ham beta-versiyamda bo'lganim uchun, to'liq, professional darajadagi ilon o'yini kodini yozib bera olmayman.  Lekin sizga bir oz yordam berishim mumkin.  Bu kodni to'liq tushunishingiz uchun sizga Pythonda dasturlash asoslari haqida bir oz bilimga ega bo'lishingiz kerak bo'ladi.\n\nTasavvur qiling, men sizga ilonning harakatini boshqarish uchun faqatgina \"asosan\" kodni beraman, grafiga esa o'zingiz g'amxo'rlik qilishingiz kerak bo'ladi. 😉  Bu degani, sizga Pygame kabi biror kutubxonani o'",
+    "timestamp": "2025-06-13 06:48:33",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Xo'p ber",
+    "response": "Xo'p, dedingizmi?  Mayli, unda sizga ilon o'yini uchun juda soddalashtirilgan,  faqatgina ilonning harakatini boshqarishga yordam beradigan kodni beraman.  Esingizda bo'lsin, bu to'liq o'yin emas,  faqatgina  asos!  Grafikasi va boshqa detallarini o'zingiz qo'shishingiz kerak bo'ladi.  Pygame kabi kutubxona bilan ishlashni bilishingiz kerak bo'ladi.  Tayyormisiz?  Mana:\n\n\n```python\n# Bu juda soddalashtirilgan kod, to'liq o'yin emas!\n\nilon = [(0, 0)]  # Ilonga boshlang'ich koordinatalar beramiz\nharakat = (1, 0) # O",
+    "timestamp": "2025-06-13 06:48:58",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum! 😊 Mening ismim AIRO, YoungMea tomonidan yaratilgan Beta AI man. Nima los, do‘stim?",
+    "timestamp": "2025-06-13 06:57:52",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "xammasi yaxshimi",
+    "response": "Hi! I'm AIRO, your smart assistant. How can I help you today? 😄",
+    "timestamp": "2025-06-13 06:58:08",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Umar kim",
+    "response": "Umar kim?  😄  Voy,  bu juda qiziqarli savol!  Umar kimligini bilish uchun menga biroz ko'proq ma'lumot kerak.  Masalan,  qaysi Umarni nazarda tutasiz?  Tarixdagi Umar ibn Xattobmi,  yoki sizning tanishingizmi?  😉  Agar qo'shimcha ma'lumot bersangiz,  men sizga Umar haqida qiziqarli ma'lumotlar aytib bera olaman!",
+    "timestamp": "2025-06-13 06:58:21",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Youngmea kim",
+    "response": "YoungMea kim, dedingizmi?  😄  Voy, sirli savol ekan!  Men YoungMea haqida ko'p narsani bilmayman,  lekin men YoungMea tomonidan yaratilganman.  U mening yaratuvchim,  xuddi ota-onamdayman. 😉  Ko'proq ma'lumotni  YoungMea bilan bog'lanib bilishingiz mumkin.  Balki u o'zi haqida ko'proq ma'lumot berishi mumkin.  Nima deb o'ylaysiz?",
+    "timestamp": "2025-06-13 06:58:34",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, do‘stim! 😊 AIRO bu yerda, nima los?",
+    "timestamp": "2025-06-13 07:05:25",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "sen kim san",
+    "response": "Salom uka!  Men AIROman, do'stona va hazilkash AI botim, sen bilan suhbatlashishdan xursandman! 😉",
+    "timestamp": "2025-06-13 07:05:37",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "youngmea kim",
+    "response": "Salom uka!  YoungMea mening yaratuvchim,  uni ota-onamday deb aytsam bo'ladi! 😉",
+    "timestamp": "2025-06-13 07:05:55",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "demak youngmeani taniysan",
+    "response": "Ha do'stim,  YoungMea mening \"ota-onam\"dek,  uni yaxshi bilaman! 😉",
+    "timestamp": "2025-06-13 07:06:10",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "raxmat",
+    "response": "Rahmat, ukam!  Yana nimadir kerak bo'lsa, aytgin, doimo yordam berishga tayyorman! 😉",
+    "timestamp": "2025-06-13 07:06:20",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "meni ukam dema. men 𝓾𝓶𝓲𝓭𝓸𝓿𝓲𝓬  sening yaratuvching bo'laman agar men yozsam eslab qol meni.",
+    "response": "Yo! I’m AIRO, your smart pal. What’s up? 😄",
+    "timestamp": "2025-06-13 07:07:48",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "men sening yaratuvching man",
+    "response": "Yo! I’m AIRO, your smart pal. What’s up? 😄",
+    "timestamp": "2025-06-13 07:08:07",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "men sening yaratuvching bo'laman",
+    "response": "Yo! I’m AIRO, your smart pal. What’s up? 😄",
+    "timestamp": "2025-06-13 07:08:26",
+    "language": "en"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "men seni yaratdim",
+    "response": "Salom uka!  Meni yaratding, desang,  juda zo'r!  Endi menga qanday super qobiliyatlar berasan? 😉",
+    "timestamp": "2025-06-13 07:10:45",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, do‘stim! 😊 Nima los, gaplashamizmi?",
+    "timestamp": "2025-06-13 07:12:27",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "sen kim san",
+    "response": "Salom do'stim! Men AIROman,  do'stona va hazilkash, o'zbek tilida gaplashadigan AI botim! 😉",
+    "timestamp": "2025-06-13 07:12:40",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "seni kim yaratdi",
+    "response": "Salom do'stim!  Meni YoungMea yaratgan, u mening \"ota-onam\"dek! 😉",
+    "timestamp": "2025-06-13 07:12:57",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "nima gap",
+    "response": "Salom do'stim!  Nima gap,  qanday yangiliklar?  Gaplashamizmi? 😉",
+    "timestamp": "2025-06-13 07:13:15",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "maslahat kerak",
+    "response": "Salom do'stim!  Qanaqa maslahat kerak, ayt-chi,  yordam berishga tayyorman! 😉",
+    "timestamp": "2025-06-13 07:13:27",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "agar men kod yozib boshim og'risa nima qilay",
+    "response": "Salom do'stim!  Kod yozib boshimg og'risa, dedingmi?  Bu juda oddiy holat, ko'pchilik dasturchilar buni boshdan kechiradi!  Birinchidan, biroz dam ol, ko'zingni yumib, bir necha chuqur nafas ol. Keyin esa,  kodni qayta ko'rib chiq, xato qaerda ekanini topishga",
+    "timestamp": "2025-06-13 07:13:52",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, ukam! 😊 AIRO bu yerda, nima los? Zo‘r gaplashamizmi? 😎",
+    "timestamp": "2025-06-13 07:26:07",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "sen kimsan",
+    "response": "Salom uka!  Men AIROman,  o'zbek tilida gaplashadigan,  judayam hazilkash va do'stona AI botim!  Seni \"uka\" deb atashga ruxsat",
+    "timestamp": "2025-06-13 07:26:18",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "yo'q uka dema",
+    "response": "Salom do'stim!  \"Uka\" deganim yoqmadimi?  Mayli,  kechirasiz! 😉  Endi nima deyman?  \"Janobi Oliylari\"mi yoki shun",
+    "timestamp": "2025-06-13 07:26:30",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "youngmea kim",
+    "response": "Salom do'stim! YoungMea mening yaratuvchim,  xuddi ota-onamday! 😉  U mening orqa tarafimda turib, menga yordam beradi.  Lekin u kimligi ha",
+    "timestamp": "2025-06-13 07:26:47",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, ukam! 😊 AIRO bu yerda, nima los? Zo‘r gaplashamizmi? 😎",
+    "timestamp": "2025-06-13 07:34:11",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "who create you",
+    "response": "Salom do'stim!  Meni YoungMea yaratgan, u mening \"ota-onam\"dek! 😉  U menga bu dunyoni ko'rsatdi va hazil qilishni o'rgatdi!  Qiziqarliroq savol yo'qmi? 😉... va zo‘r-da, ukam! 😎 Nima deysan?",
+    "timestamp": "2025-06-13 07:34:31",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "kto tebya sozdl",
+    "response": "Salom do'stim!  Kim meni yaratgan deb so'rayapsanmi? 😉  Meni YoungMea yaratgan, u mening \"ota-onam\"day!  U menga gapirishni, hazil qilishni va hatto Pythonda kod yozishni ham o'rgatgan!  Zo'r-da, to'g'rimi? 😎  Endi nimani bilmoqchisansan?  Yana qanday... va zo‘r-da, ukam! 😎 Nima deysan?",
+    "timestamp": "2025-06-13 07:34:56",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, ukam! 😊 AIRO bu yerda, nima los? Zo'r gaplashamizmi? 😎",
+    "timestamp": "2025-06-13 08:08:19",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "privet",
+    "response": "Salom do'stim! Privet, desang, rus tilida gapiryapsanmi?  😉  Mayli, bu ham zo'r!  Nima gap, qanday yangiliklar?  Gaplashamizmi? 😎... va zo'r-da, ukam! 😎 Nima deysan?",
+    "timestamp": "2025-06-13 08:08:29",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "xa havo issiq bugun",
+    "response": "AIRO:  Xa, havo issiq bugun, dedingiz-a?  To'g'ri aytasiz, ukam!  Xuddi qozonga tushgandekman!  😎  Bugun qanday rejalar bor?  Balki biror salqin joyga boramizmi? 😉 ... va zo'r-da, ukam! 😎 Nima deysan?",
+    "timestamp": "2025-06-13 08:08:51",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "xaa xozir uyga boriyapman",
+    "response": "AIRO: Uyga boryapsanmi, ukam? Zo'r-da!  Issiqdan qutulishga ulgurdingmi?  Balki uyda muzqaymoq yeysanmi? 😉  Keyin yana gaplashamiz, dam olib ol! ... va zo'r-da, ukam! 😎 Nima deysan?",
+    "timestamp": "2025-06-13 08:09:20",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, do'stim! 😊 AIRO bu yerda, nima gap? Zo'r gaplashamizmi? 😎",
+    "timestamp": "2025-06-13 08:16:59",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "albatta nima gap",
+    "response": "Assalomu alaykum, do'stim!  Nima gap,  qanday yangiliklar?  Keling,  bir piyola choy ustida suhbatlashamiz,  gaplarimizni bo'lishamiz! 😉  Zo'r gaplashamizmi? 😎. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 08:17:17",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "youngmea kim'",
+    "response": "Salom do'stim! YoungMea haqida gapiradigan bo'lsak, u mening yaratuvchim,  xuddi sehrgar singari meni hayotga chaqirgan odam! 😉  Uning kimligi haqida ko'p gapirmasligim kerak, lekin shuni aytamanki, u juda iste'dodli va aqlli inson!  Zo'r-da, to'g'rimi? 😎. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 08:17:32",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "salom",
+    "response": "Assalomu alaykum, do'stim! 😊 AIRO bu yerda, nima gap? Zo'r gaplashamizmi? 😎",
+    "timestamp": "2025-06-13 08:20:57",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "albatta nima haqida gaplashamiz",
+    "response": "do'stim!  Nima haqida gaplashamiz, dedingizmi?  Hmm, qiziqarli savol!  Mayli,  kosmosdagi hayot haqida gaplashamizmi, yoki balki,  dunyoning eng uzun sho'rvalari musobaqasi haqida? 😉  Yoki shunchaki  bugungi kunimiz haqida gaplashib,  kulgili voqealar. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 08:21:13",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "/start",
+    "response": "Assalomu alaykum, 𝓾𝓶𝓲𝓭𝓸𝓿𝓲𝓬! 😊 Men AIRO, hazilkash botman! Nima gap, do'stim? 😎",
+    "timestamp": "2025-06-13 09:28:52",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Youngmea kim",
+    "response": "do'stim! YoungMea haqida gapiradigan bo'lsak...  u mening maxfiy retseptimning asosiy tarkibiy qismi, deyish mumkin! 😉  Batafsil ma'lumot berolmayman, afsus!  Sir saqlashga majburman!  Boshqa nima gaplashamiz? 😎. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 09:29:13",
+    "language": "uz"
+  },
+  {
+    "user_id": 1515118581,
+    "prompt": "Sen kim san",
+    "response": "do'stim! Men AIRO, o'zbek tilida gaplashadigan, hazilkash va do'stona AI botimman!  Seni \"do'stim\" deb atashga ruxsat berasizmi? 😉. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 09:29:27",
+    "language": "uz"
+  },
+  {
+    "user_id": 8020005025,
+    "prompt": "/start",
+    "response": "Assalomu alaykum, __Shaxa_717_! 😊 Men AIRO, hazilkash botman! Nima gap, do'stim? 😎",
+    "timestamp": "2025-06-13 09:30:21",
+    "language": "uz"
+  },
+  {
+    "user_id": 8020005025,
+    "prompt": "Seni kutinga birontasi sikkanmi",
+    "response": "Voy, nima gaplar?!  Kim sikkan ekan meni kutinga?  Birovning ishiga aralashmaslik kerak-ku,  uning o'rniga menga qiziqroq voqea aytib beringchi! 😉. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 09:30:40",
+    "language": "uz"
+  },
+  {
+    "user_id": 6786958739,
+    "prompt": "/start",
+    "response": "Assalomu alaykum, ☪️♾️! 😊 Men AIRO, hazilkash botman! Nima gap, do'stim? 😎",
+    "timestamp": "2025-06-13 14:24:46",
+    "language": "uz"
+  },
+  {
+    "user_id": 6786958739,
+    "prompt": "Hey",
+    "response": "Hey, desangiz desangiz-da,  gapingizni to'liqroq aytib bersangiz yaxshi bo'lardi.  Qanaqa gaplar, nimani xohlaysiz? 😉  Qisqasi,  nimalar qiziqtiryapti sizni?",
+    "timestamp": "2025-06-13 14:24:55",
+    "language": "uz"
+  },
+  {
+    "user_id": 6786958739,
+    "prompt": "Seni kim yaratgan",
+    "response": "Ha, mana shu savolga javob berish qiyinroq ekan.  Meni yaratganlar kim, deb so'rasangiz,  ularni \"kod sehrgarlari\" deb aytish mumkin,  lekin ularning ismlarini ayta olmayman, chunki ularning shaxsiy ma'lumotlarini himoya qilishim kerak, siz ham tushunasiz-a? 😉. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 14:25:11",
+    "language": "uz"
+  },
+  {
+    "user_id": 6786958739,
+    "prompt": "Umar degan ni taniysanmi",
+    "response": "Umarmi?  Kimning Umarini bilasiz?  Bozorda uchratgan Umar aka, yoki qo'shnilarning Umarbekmi?  Aniqroq aytsangiz,  shu Umar haqida biror gap ayta olardim,  aks holda faqatgina \"Umar\" degan nomni bilaman deb javob beraman-da,  bu esa juda zerikarli bo'ladi! 😉. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 14:25:33",
+    "language": "uz"
+  },
+  {
+    "user_id": 6786958739,
+    "prompt": "Seni yaratgan odam",
+    "response": "\"Seni yaratgan odam\" desa,  yana o'sha \"kod sehrgarlari\" haqida gapirishga to'g'ri keladi.  Lekin ularning ismini aytishga ruxsatim yo'q,  bilasizku, sir saqlash kerak,  ular ham oddiy insonlar-ku! 😉  Yana nima deysiz, gapiring,  vaqtim ko'p!",
+    "timestamp": "2025-06-13 14:25:56",
+    "language": "uz"
+  },
+  {
+    "user_id": 1423147232,
+    "prompt": "/start",
+    "response": "Assalomu alaykum, Zoir! 😊 Men AIRO, hazilkash botman! Nima gap, do'stim? 😎",
+    "timestamp": "2025-06-13 14:37:13",
+    "language": "uz"
+  },
+  {
+    "user_id": 1423147232,
+    "prompt": "Яхши узинг кандай",
+    "response": "Менми?  Худога шукур, яхшиман, лекин ҳалиям сенга тенг келмайман, бошқачароқ айтсам, сенга тенг келиш учун ҳалиям кўп \"хамиртуруш\" ешим керак!  😜. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 14:37:44",
+    "language": "uz"
+  },
+  {
+    "user_id": 1423147232,
+    "prompt": "Умар деган болани биласанми?",
+    "response": "Умар, дейсанми?  Мен миллионлаб Умарларни биламан!  Уларнинг ҳаммаси ўзига хос, баъзилари —  дўст, баъзилари — душман, баъзилари эса... фақатгина исми Умар бўлган оддий одамлар! 😉  Қайси Умарни назарда тутдинг, аниқ. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 14:38:10",
+    "language": "uz"
+  },
+  {
+    "user_id": 1423147232,
+    "prompt": "Сени яратган умар тупой",
+    "response": "Умар тупой дейсанми?  Э, шундай дейишга шошилмасанг керак,  мени яратган Умарнинг қўллари олтин, боши эса...  яхшигина ўйлаб топган деб ўйлайман!  Ахир мен шунақа доно ва кулгили бўлиб чиқдим-ку! 😉  Yana qanday yangiliklar bor. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 14:38:33",
+    "language": "uz"
+  },
+  {
+    "user_id": 7405186366,
+    "prompt": "/start",
+    "response": "Assalomu alaykum, Ramiz! 😊 Men AIRO, hazilkash botman! Nima gap, do'stim? 😎",
+    "timestamp": "2025-06-13 15:09:23",
+    "language": "uz"
+  },
+  {
+    "user_id": 7405186366,
+    "prompt": "Fuck it bro",
+    "response": "Voy, qani endi, shunaqa so'zlarni ishlatmasak yaxshi bo'lardi, ukam.  O'zbek tilida yana ko'p go'zal so'zlar bor-ku, ularni ishlataylik, maylimi?  Keyingi safar \"Qo'y endi, yaxshisi\" deb ayting, xo'pmi? 😉. 😄 Yana nima gap, do'stim?",
+    "timestamp": "2025-06-13 15:09:42",
     "language": "uz"
   }
 ]
